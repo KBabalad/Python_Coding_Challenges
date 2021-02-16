@@ -1,0 +1,3 @@
+Hello world,
+I am writing this text file to check the unique words I want to search in this file and to print the unique word from
+from this file and tell you how many times each word has occured.
